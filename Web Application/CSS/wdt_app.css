@@ -1,0 +1,68 @@
+.companyLogo {
+    width: 250px;
+}
+
+h2,
+h3
+ {
+    font-family: Calibri;
+    color: #212529;
+}
+
+.navbar-custom{
+    background-color: #0E8EA8;
+}
+
+.navbar-brand {
+    color: #FFF;
+    font-family: Consolas;
+}
+
+.dropdown-item {
+    background-color: #83D1E1;
+    color: #212529 ;
+}
+
+table,
+.table,
+.table-bordered {
+    border: 1px #212529 solid;
+    border-radius: 10px !important; 
+    border-collapse: collapse;
+    background-clip: border-box;
+}
+
+th {
+    border: 1px #212529 solid; 
+    font-family: Consolas; color: #fff !important; background-color: #0E8EA8 !important;
+}
+
+
+td {
+    border: 1px #212529 solid; 
+    font-family: Calibri; color: #212529; background-color: #83D1E1 !important;
+}
+
+.btn-negative {
+    font-family: Consolas;
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545
+}
+
+.btn-positive {
+    font-family: Consolas;
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+}
+
+.selected {
+    font-size: 30px;
+    color: #FFF;
+}
+
+input {
+    font-family: Consolas;
+}
+
